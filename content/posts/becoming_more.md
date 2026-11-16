@@ -4,6 +4,9 @@ date = 2026-02-11
 slug = "becoming_more"
 description = "Empowering developers in ways that matter."
 
+[taxonomies]
+tags = ["programming", "ai"]
+
 [extra]
 mastodon_comment_id = 116052615619796944
 +++

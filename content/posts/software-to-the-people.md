@@ -5,7 +5,7 @@ slug = "software-to-the-people"
 description = "What if your phone was like a 1980s home computer?"
 
 [taxonomies]
-tags = ["programming"]
+tags = ["programming", "ai"]
 
 [extra]
 mastodon_comment_id = 117213225525910310

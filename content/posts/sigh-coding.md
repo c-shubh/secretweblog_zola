@@ -5,7 +5,7 @@ slug = "sigh-coding"
 description = "The feeling when you slow down."
 
 [taxonomies]
-tags = ["programming"]
+tags = ["programming", "ai"]
 +++
 
 So you got hired and you have to work with an existing codebase. It takes a

@@ -4,7 +4,7 @@ date = 2025-01-27
 slug = "repeat-yourself-a-bit"
 
 [taxonomies]
-tags = ["programming", "llm"]
+tags = ["programming", "ai"]
 
 [extra]
 mastodon_comment_id = 113901237721415934

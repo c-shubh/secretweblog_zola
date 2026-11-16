@@ -6,7 +6,7 @@ slug = "the-curious-case-of-quentell"
 description="I go on a journey to learn about a man named Quentell, and discover unsettling things about the information landscape."
 
 [taxonomies]
-tags = []
+tags = ["ai"]
 
 [extra]
 mastodon_comment_id = 113726836079540908
